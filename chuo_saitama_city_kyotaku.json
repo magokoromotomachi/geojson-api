@@ -1,0 +1,527 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "金子歯科診療所",
+        "description": "さいたま市中央区上落合7ｰ6ｰ2ｶｰｴｽ･ﾌﾞﾙｸ301",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62471,
+          35.898499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ニチイケアセンター与野",
+        "description": "さいたま市中央区上落合5-4-7瀬山ﾋﾞﾙ1階2階",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627655,
+          35.894325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "みきケアサービス",
+        "description": "さいたま市中央区上落合1-9 与野ﾊｳｽ1号棟1105",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629761,
+          35.890213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東京海上日動みずたま介護ST大宮ケアプランセンター",
+        "description": "さいたま市中央区上落合5-18-14 都ﾏﾝｼｮﾝ1階",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626328,
+          35.89896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "セコムさいたま訪問看護ステーション",
+        "description": "さいたま市中央区下落合3-8-9 ｾｺﾑ与野ﾋﾞﾙ4階",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631546,
+          35.885658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "有限会社　大和・ハッピー・ケア・サービス",
+        "description": "さいたま市中央区下落合4丁目23-17 埼京ﾋﾞﾙ2階",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629852,
+          35.887451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ｏｎｅ’ｓかいご",
+        "description": "さいたま市中央区下落合2-3-4 ﾘｾﾊｲﾂ101号室",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.635208,
+          35.881794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "介護やトーワ居宅介護支援事業所",
+        "description": "さいたま市中央区下落合4-17-18 ﾄﾞﾐｰﾙ吉田102",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62677,
+          35.887146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランのぞみ",
+        "description": "さいたま市中央区下落合7丁目8番22号 ﾒｿﾞﾝ･ｱｰﾍﾞｲﾝ103号",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628204,
+          35.881207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　こころ",
+        "description": "さいたま市中央区下落合3丁目7番1号 飯塚ﾋﾞﾙ 102",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631927,
+          35.884567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ナーシングヴィラ与野　指定居宅介護支援事業所",
+        "description": "さいたま市中央区本町東6-10-1",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618057,
+          35.893158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所あさがお与野公園",
+        "description": "さいたま市中央区本町東5-6-5",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621155,
+          35.888176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "与野 ケアセンターそよ風",
+        "description": "さいたま市中央区桜丘1-11-11",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616058,
+          35.879341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ひだまり介護支援センター",
+        "description": "さいたま市中央区桜丘1-13-1",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616608,
+          35.880226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指定居宅介護支援事業所 きりしき",
+        "description": "さいたま市中央区新中里2-8-6",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633896,
+          35.872154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "与野訪問看護ステーション居宅",
+        "description": "さいたま市中央区新中里3-3-8",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63591,
+          35.875557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東電さわやかケアさくら・居宅介護支援",
+        "description": "さいたま市中央区新中里1-5-37 ｻﾝﾊｯﾋﾟｰ101号",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.637283,
+          35.872063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アースサポート北浦和",
+        "description": "さいたま市中央区新中里1-3-3",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.637131,
+          35.870922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアサポート　SAILING　LIFE",
+        "description": "さいたま市中央区新中里5丁目20番9号 ｴｰﾃﾞﾙﾊｲﾂ102",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.634842,
+          35.88065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ポポケアセンター",
+        "description": "さいたま市中央区大戸6-21-20",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63327,
+          35.868027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　緑水苑与野",
+        "description": "さいたま市中央区大戸1-33-12",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.636734,
+          35.861721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アートリティ居宅支援",
+        "description": "さいたま市中央区大戸4丁目15番13号5号室",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641861,
+          35.86758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　きりしきおおと",
+        "description": "さいたま市中央区大戸5-3-24",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.636978,
+          35.866226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ヒューマンライフケア南与野の湯",
+        "description": "さいたま市中央区鈴谷2-549-24",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630219,
+          35.86702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "トラストケア居宅介護支援事業所",
+        "description": "さいたま市中央区鈴谷4丁目10番5号",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623093,
+          35.872883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ゆめみらい　与野本町",
+        "description": "さいたま市中央区鈴谷7丁目10番25号 ｱｽﾃﾘｽｸｴｱF号",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626663,
+          35.875305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "（有）フレンズ指定居宅介護支援事業所",
+        "description": "さいたま市中央区上峰2-2-1 2階",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617691,
+          35.874603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "やさしい手与野本町居宅介護支援事業所",
+        "description": "さいたま市中央区上峰4丁目1番9号 高瀬ﾋﾞﾙ202",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619553,
+          35.875515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アトリオ訪問看護ステーション",
+        "description": "さいたま市中央区上峰四丁目8番18号",
+        "marker-size": "middle",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621094,
+          35.877571
+        ]
+      }
+    }
+  ]
+}

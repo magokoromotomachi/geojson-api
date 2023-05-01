@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランセンター　今羽の森",
+        "description": "さいたま市北区今羽町650-1",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625671,
+          35.95084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あすなろケアサービス大宮",
+        "description": "さいたま市北区本郷町450-3 ｴｸｾﾚﾝﾄUM102",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62326,
+          35.940544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "パーソナルケア　さいたま",
+        "description": "さいたま市北区本郷町112 白石ﾋﾞﾙ2階",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626236,
+          35.938351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所 たんとん",
+        "description": "さいたま市北区土呂町2-12-18 中橋ﾋﾞﾙ202号",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632996,
+          35.932587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "土呂まちかど介護",
+        "description": "さいたま市北区土呂町1丁目11番地5",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630402,
+          35.931225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ツクイさいたま大宮公園",
+        "description": "さいたま市北区盆栽町161-1",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631149,
+          35.925198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　リセイル盆栽町",
+        "description": "さいたま市北区盆栽町168 ﾚﾌｨｰﾆ大宮盆栽町203号室",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628998,
+          35.924358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指定居宅介護支援事業所　白樺ホーム",
+        "description": "さいたま市北区吉野町2-1331",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617844,
+          35.964485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あけぼし居宅介護支援事業所",
+        "description": "さいたま市北区吉野町1-3-1 茂木ﾋﾞﾙ2F",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621506,
+          35.947018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "学研ココファンしらかば",
+        "description": "さいたま市北区吉野町2-210-1",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606674,
+          35.957924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "いい・らいふ吉野町",
+        "description": "さいたま市北区吉野町2-281-5",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.612747,
+          35.963951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "コスモ訪問看護リハビリステーション　さいたま北",
+        "description": "さいたま市北区宮原町2-129-25",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619019,
+          35.944763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あかねケアサービス",
+        "description": "さいたま市北区宮原町2-78-26 ﾊｲﾂﾍﾟｰｼﾞ1",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616531,
+          35.940804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "独立行政法人地域医療機能推進機構さいたま北部医療センター附属居宅介護支援センター",
+        "description": "さいたま市北区宮原町1-851",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619705,
+          35.932766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランひだまり",
+        "description": "さいたま市北区宮原町3丁目432番地2 岸ﾋﾞﾙ1F",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.608246,
+          35.942966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ラウンド＆ケア居宅介護支援事業所宮原",
+        "description": "さいたま市北区宮原町1丁目669番地1 第2東家ﾋﾞﾙ1階",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620621,
+          35.938812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランセンターなごみの栞",
+        "description": "さいたま市北区宮原町4丁目23番地7 ｺｰﾎﾟ中里101号室",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.611389,
+          35.946228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人社団彩明会　大宮居宅介護支援事業所",
+        "description": "さいたま市北区植竹町1丁目755番地2 TKﾋﾞﾙ2階",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620514,
+          35.929245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人ヘブロン会　大宮中央総合病院",
+        "description": "さいたま市北区東大成町1-227",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620941,
+          35.920685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "介護プラン　すずのき大宮",
+        "description": "さいたま市北区東大成町2丁目255番地",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620789,
+          35.92646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ラウンド＆ケア居宅介護支援事業所中央",
+        "description": "さいたま市北区東大成町2-85 岸ﾋﾞﾙ101",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621964,
+          35.925377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "リルセーヌ大宮居宅介護支援事業所",
+        "description": "さいたま市北区大成町4丁目416番地1 ﾃﾞｭｵｾｰﾇ大宮1階",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.613647,
+          35.923847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指定居宅介護支援事業所　みやびの里",
+        "description": "さいたま市北区別所町920",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.590927,
+          35.957737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ゆめの園奈良居宅介護支援センター",
+        "description": "さいたま市北区奈良町54-1 SGKﾏﾝｼｮﾝﾊﾟﾋﾟｵｰﾙ1階",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.603348,
+          35.940899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援センター　ハートランド大宮",
+        "description": "さいたま市北区奈良町120-2",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.597733,
+          35.951408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "エスケアステーションさいたま北　居宅介護支援",
+        "description": "さいたま市北区奈良町33-31 ﾋﾟｭｱﾚｼﾞﾃﾞﾝｽ103号室",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.604126,
+          35.947079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "奈良町居宅介護支援事業所",
+        "description": "さいたま市北区奈良町166-1 203",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.594498,
+          35.952663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま市社協ケアプランおおみや",
+        "description": "さいたま市北区日進町2-1864-10",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.609833,
+          35.932961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "にっしんけあぷらん",
+        "description": "さいたま市北区日進町1丁目600番地",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.603088,
+          35.92458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランひばり　日進",
+        "description": "さいたま市北区日進町2丁目1086番地5 1F",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605545,
+          35.930237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランひすいの華",
+        "description": "さいたま市北区日進町3丁目759番地 ｱﾐﾃｨｴ･平栗102号",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606888,
+          35.940788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ふくしのまち大宮",
+        "description": "さいたま市北区櫛引町2-271-1 川善ﾋﾞﾙ2-A",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.610046,
+          35.918896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "コープみらい大宮介護センター",
+        "description": "さいたま市北区櫛引町2-431-2 ﾐﾆｺｰﾌﾟ櫛引店2階",
+        "marker-size": "middle",
+        "marker-color": "#000088",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605545,
+          35.920387
+        ]
+      }
+    }
+  ]
+}

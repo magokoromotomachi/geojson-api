@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　さいたま青木",
+        "description": "さいたま市緑区道祖土2-12-10 ｻﾝﾊｲﾂｻｲﾄﾞ202",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.671631,
+          35.879974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "夢たまケアプラン",
+        "description": "さいたま市緑区三室1290-3",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.674683,
+          35.880573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援センター　ドリームパレット",
+        "description": "さいたま市緑区三室213番地7",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.668015,
+          35.888737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "コープみらい浦和東介護センター",
+        "description": "さいたま市緑区三室1342-4 斉藤ﾏﾝｼｮﾝ2階",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.676285,
+          35.881149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "新しい介護を創造する　ユニバーサルケア悠々",
+        "description": "さいたま市緑区三室1354番地1",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675018,
+          35.881931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "グリーンヒルうらわ在宅介護支援センター",
+        "description": "さいたま市緑区馬場1丁目7番地1",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680878,
+          35.890755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "れんけい訪問看護ステーション",
+        "description": "さいたま市緑区松木3-16-6 2F",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.688156,
+          35.883976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "リバティハウス在宅介護支援センター",
+        "description": "さいたま市緑区松木3-29-5",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690369,
+          35.883709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所あさがお東浦和",
+        "description": "さいたま市緑区大間木550-1",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698776,
+          35.873543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "介護の相談所はな",
+        "description": "さいたま市緑区下山口新田11-2",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717163,
+          35.86256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "つつみ居宅介護支援事業所",
+        "description": "さいたま市緑区東浦和7-13-5",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702759,
+          35.870892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "未来介護サービス",
+        "description": "さいたま市緑区東浦和2-74-1 ﾎﾞﾝﾒｿﾞﾝ103",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696732,
+          35.863087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "なごやかケアプラン東浦和",
+        "description": "さいたま市緑区東浦和4丁目26番地9",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700409,
+          35.868916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指定居宅介護支援事業所「尚和園在宅介護支援センター」",
+        "description": "さいたま市緑区原山3-15-31",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675842,
+          35.872219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あんしん介護ステーション浦和居宅介護支援センター",
+        "description": "さいたま市緑区原山1-28-22",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673706,
+          35.86599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浦和しぶや苑",
+        "description": "さいたま市緑区中尾925番地",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.681396,
+          35.874798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "デイサービスセンター　つくしんぼ浦和",
+        "description": "さいたま市緑区中尾3175",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691238,
+          35.865845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "イリーゼ浦和大門居宅介護支援事業所",
+        "description": "さいたま市緑区大字大門808",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737854,
+          35.879124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "エスポワールさいたま　居宅介護支援事業所",
+        "description": "さいたま市緑区大字大門1548-7",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.728287,
+          35.88192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援レジデンス浦和美園",
+        "description": "さいたま市緑区美園五丁目43番地10",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732544,
+          35.894043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　シーパス",
+        "description": "さいたま市緑区大字中野田1251番地2 ﾜｰｸｵﾌｨｽ中野田206",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718323,
+          35.898277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "スマイルハウス居宅介護支援センター",
+        "description": "さいたま市緑区大崎2160",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705795,
+          35.888588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　あさがお",
+        "description": "さいたま市緑区大崎3385番地1",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715668,
+          35.887218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "白寿園老人介護支援センター",
+        "description": "さいたま市緑区寺山157",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710831,
+          35.904835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "デイサービスセンターつくしんぼ浦和",
+        "description": "さいたま市緑区中尾3715",
+        "marker-size": "middle",
+        "marker-color": "#008800",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.678696,
+          35.876015
+        ]
+      }
+    }
+  ]
+}

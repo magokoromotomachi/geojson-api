@@ -1,0 +1,563 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "まごころ浦和元町",
+        "description": "さいたま市浦和区元町3-32-23",
+        "marker-size": "large",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655129,
+          35.874083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランあいざわ居宅介護支援事業所",
+        "description": "さいたま市浦和区木崎1丁目7番26号",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.659546,
+          35.885323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランオレンジ",
+        "description": "さいたま市浦和区木崎4丁目1番15号",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658173,
+          35.888317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ふくしのまち与野",
+        "description": "さいたま市浦和区木崎4丁目17番1号 ﾊﾞﾛﾝｽﾞ202",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.660767,
+          35.88681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "つばさ　ケアセンター",
+        "description": "さいたま市浦和区大東2-24-16",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.665314,
+          35.880661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あけぼしケアプラン",
+        "description": "さいたま市浦和区大東3-10-7",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.664429,
+          35.881973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプラン　ひまわり",
+        "description": "さいたま市浦和区瀬ｹ崎2丁目16番9号 笹屋ﾏﾝｼｮﾝ202号",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.662201,
+          35.878155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "有限会社 ファーストケアまちや",
+        "description": "さいたま市浦和区本太3-1-14",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.654495,
+          35.863419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "癒しのケアプランセンター浦和",
+        "description": "さいたま市浦和区本太3丁目24番6号",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655045,
+          35.867298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "本太ケアセンターそよ風",
+        "description": "さいたま市浦和区本太1丁目14番6号",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.664474,
+          35.863098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東電さわやかケアうらわ・居宅介護支援",
+        "description": "さいたま市浦和区前地3-14-12 第2ｽﾐﾀﾞﾋﾞﾙ3階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.665604,
+          35.860584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ソラスト浦和",
+        "description": "さいたま市浦和区東仲町15-8 ｸﾞﾘｰﾝｽｸｴｱ401号",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.657776,
+          35.860981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "オリーブケア",
+        "description": "さいたま市浦和区東仲町5-3 ｲｰｽﾄｻｲﾄﾞﾊﾟﾚｽT&T406",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.656113,
+          35.861675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浦和医師会指定居宅介護支援センター",
+        "description": "さいたま市浦和区常盤6-4-18",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.644196,
+          35.861992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護ささえあい",
+        "description": "さいたま市浦和区仲町3-2-1-101",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.649963,
+          35.860439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所ケアビリティ",
+        "description": "さいたま市浦和区仲町2丁目9番6号 加来ﾋﾞﾙ406",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65033,
+          35.861118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所ほほえみ",
+        "description": "さいたま市浦和区高砂2-1-1明治安田生命浦和ﾋﾞﾙ4階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.654831,
+          35.857132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アズミメディケアセンター浦和",
+        "description": "さいたま市浦和区岸町7-1-4 荏原実業浦和ﾋﾞﾙ",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65416,
+          35.855671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あいケアサポート浦和",
+        "description": "さいたま市浦和区神明2丁目12番15号 ｵｰｸ南浦和103",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.659119,
+          35.848133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "福祉ネットワークさくら",
+        "description": "さいたま市浦和区上木崎6-9-3",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.651886,
+          35.883377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ニチイケアセンター上木崎",
+        "description": "さいたま市浦和区上木崎3-1-10",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643692,
+          35.887299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "コープみらい浦和介護センター",
+        "description": "さいたま市浦和区上木崎7-6-7 ｺｰﾌﾟ上木崎店内",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.650711,
+          35.888351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "サポートセンター　麦",
+        "description": "さいたま市浦和区上木崎7-13-26 ｺｰﾎﾟ道美木102",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.651611,
+          35.888992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ふわり総合福祉サービス",
+        "description": "さいたま市浦和区領家5丁目11番17号 ｱｸﾃｨ北浦和101",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652924,
+          35.880341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ほっとミルク北浦和　居宅介護支援",
+        "description": "さいたま市浦和区領家3丁目19番7号",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.657318,
+          35.877708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "独立行政法人地域医療機能推進機構埼玉メディカルセンター附属居宅介護支援センター",
+        "description": "さいたま市浦和区北浦和5-2-7",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64299,
+          35.873795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療生協ケアステーションうらしん",
+        "description": "さいたま市浦和区北浦和1-8-12 河野ﾋﾞﾙ4階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.647949,
+          35.873184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アールスタッフ浦和ケアサービス",
+        "description": "さいたま市浦和区北浦和1-6-15",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.647339,
+          35.87431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅支援センター　新都心",
+        "description": "さいたま市浦和区針ｹ谷2-14-3",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643906,
+          35.882622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所風信子（ヒアシンス）",
+        "description": "さいたま市浦和区岸町2-4-18",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.659332,
+          35.850883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "サライケアステーション",
+        "description": "さいたま市浦和区北浦和2-4-3　メゾンドグリュ桜305",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.644775,
+          35.878132
+        ]
+      }
+    }
+  ]
+}

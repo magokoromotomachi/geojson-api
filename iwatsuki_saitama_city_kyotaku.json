@@ -1,0 +1,833 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "田中ファミリークリニック",
+        "description": "さいたま市岩槻区鹿室987-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701187,
+          35.990376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ひなの槻",
+        "description": "さいたま市岩槻区裏慈恩寺40-3",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700943,
+          35.978855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "きらきら介護",
+        "description": "さいたま市岩槻区東岩槻2-2-9 PUREﾋﾞﾙ301",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709183,
+          35.964756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　メープル東岩槻",
+        "description": "さいたま市岩槻区東岩槻1丁目5番地1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710709,
+          35.964081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ローズケア",
+        "description": "さいたま市岩槻区東岩槻1丁目4番地17 筑紫ﾊｲﾑB棟102号室",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710175,
+          35.963661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ゆうゆう介護相談室",
+        "description": "さいたま市岩槻区上里1-4-61-108",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706436,
+          35.963608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "介護相談室　岩槻名栗園",
+        "description": "さいたま市岩槻区諏訪3-2-2",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706924,
+          35.967648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東岩槻ケアセンターそよ風",
+        "description": "さいたま市岩槻区表慈恩寺625-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706543,
+          35.972164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "エスポワール岩槻　居宅介護支援事業所",
+        "description": "さいたま市岩槻区表慈恩寺541-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711594,
+          35.968651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　さいたまほほえみの里",
+        "description": "さいたま市岩槻区大字長宮1512-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.728302,
+          35.95013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援センターさいたま",
+        "description": "さいたま市岩槻区増長100-9",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738678,
+          35.944004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランあいはな岩槻",
+        "description": "さいたま市岩槻区大字大谷457番地1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.740387,
+          35.939503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランひなた",
+        "description": "さいたま市岩槻区釣上新田336-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.743713,
+          35.889568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指定居宅介護支援事業所うらら岩槻",
+        "description": "さいたま市岩槻区飯塚1205-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72084,
+          35.937218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "槻寿苑居宅介護支援事業所",
+        "description": "さいたま市岩槻区笹久保1393",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713928,
+          35.917686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "岩槻まきば園居宅介護支援センター",
+        "description": "さいたま市岩槻区横根1375",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700836,
+          35.922466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいどの森",
+        "description": "さいたま市岩槻区横根503-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699341,
+          35.926407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アリス・ケアプラン",
+        "description": "さいたま市岩槻区城南1-6-53-9",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701736,
+          35.940144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　しらさぎ",
+        "description": "さいたま市岩槻区真福寺1465番地",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712219,
+          35.933884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "株式会社　さいたま福祉サービス　本社事業所",
+        "description": "さいたま市岩槻区南平野3-1-4",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715363,
+          35.956726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランあい介護",
+        "description": "さいたま市岩槻区南平野二丁目4番地15",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718735,
+          35.958591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あしすとケアプラン岩槻",
+        "description": "さいたま市岩槻区南平野3丁目21番12号",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715164,
+          35.952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援　フローラ岩槻",
+        "description": "さいたま市岩槻区仲町1-9-7",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701111,
+          35.946537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　フローラ岩槻仲町",
+        "description": "さいたま市岩槻区仲町1丁目12番27号",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701248,
+          35.947517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプラン　彩",
+        "description": "さいたま市岩槻区仲町1-4-17 仲町ｺｰﾎﾟﾗｽ101",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70253,
+          35.945568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "有限会社岩槻市薬剤会事業部会　岩槻介護",
+        "description": "さいたま市岩槻区東町2-6-35",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701782,
+          35.944534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "訪問看護ステーションいわつき",
+        "description": "さいたま市岩槻区本町2丁目7番2号",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695145,
+          35.943604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ひびき",
+        "description": "さいたま市岩槻区本町4-2-7",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697174,
+          35.949215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　メープル",
+        "description": "さいたま市岩槻区本町1-15-8",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692627,
+          35.945393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ＳＯＭＰＯケア　さいたま岩槻　居宅介護支援",
+        "description": "さいたま市岩槻区本町2-12-11",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696991,
+          35.94688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　さくらんぼ",
+        "description": "さいたま市岩槻区本丸1-36-27",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703735,
+          35.953808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプラン　ひなたぼっこ",
+        "description": "さいたま市岩槻区岩槻346番地1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.683731,
+          35.962112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　コンフォケア",
+        "description": "さいたま市岩槻区岩槻5367-3",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.682129,
+          35.962749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "evergreen SUPPORT OFFICE",
+        "description": "さいたま市岩槻区岩槻6821番地",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699005,
+          35.965233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランおはなみ",
+        "description": "さいたま市岩槻区大字岩槻6795番地",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686401,
+          35.957832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアメディカル岩槻居宅介護支援事業所",
+        "description": "さいたま市岩槻区南辻22-2",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700974,
+          35.96286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアサービス白鶴ホーム",
+        "description": "さいたま市岩槻区宮町1-5-12",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698471,
+          35.958321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "グリーンケアプラン岩槻",
+        "description": "さいたま市岩槻区西町5丁目5-6 ﾔｽﾄﾐﾊｲﾂ103号",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693069,
+          35.95557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "合同会社　ケアプランほーりぃ",
+        "description": "さいたま市岩槻区並木1-27-22 ﾒｿﾞﾝ･ﾄﾞ･ﾌﾟﾚﾘｭｰﾄﾞ105",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.682999,
+          35.946541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "こもれびの窓",
+        "description": "さいたま市岩槻区箕輪90-7",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680603,
+          35.959381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "社会福祉法人春秋会松鶴園",
+        "description": "さいたま市岩槻区古ｹ場11",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696732,
+          35.980259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　サンケアプラン",
+        "description": "さいたま市岩槻区本宿486-8",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675293,
+          35.963608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NPOケアサービス　愛風",
+        "description": "さいたま市岩槻区平林寺905-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.678513,
+          35.970039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所ルミナス岩槻",
+        "description": "さいたま市岩槻区馬込1292-6",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658371,
+          35.970203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "コスモ訪問看護ステーション岩槻",
+        "description": "さいたま市岩槻区西原6番33号",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.683472,
+          35.952839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま市社協ケアプラン岩槻",
+        "description": "さいたま市岩槻区本町3-2-5",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693375,
+          35.949875
+        ]
+      }
+    }
+  ]
+}

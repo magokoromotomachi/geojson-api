@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "在宅介護支援センターさくら",
+        "description": "さいたま市見沼区丸ｹ崎1220",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.653427,
+          35.957409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ハートランド東大宮",
+        "description": "さいたま市見沼区春野2-9-22",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.659836,
+          35.95734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あしすとケアプラン",
+        "description": "さいたま市見沼区深作1-19-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.666016,
+          35.949055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　さいたまやすらぎの里",
+        "description": "さいたま市見沼区卸町2-21-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.677505,
+          35.951843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　青い鳥",
+        "description": "さいたま市見沼区小深作493 ｼﾝﾌｫﾆｰⅡ B-1号室",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.666306,
+          35.943459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "夢工房結愛の森",
+        "description": "さいたま市見沼区島町937",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65712,
+          35.944263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプラン　もみじ",
+        "description": "さいたま市見沼区島町435番地1 ﾌﾟﾘﾑﾗﾊｳｽ106",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.648636,
+          35.947117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指定居宅介護支援事業所　ふくねこ",
+        "description": "さいたま市見沼区丸ｹ崎町48-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64949,
+          35.958813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所ＰＰＫ",
+        "description": "さいたま市見沼区丸ｹ崎町52-20",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.650787,
+          35.958801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所あさがお七里",
+        "description": "さいたま市見沼区春岡1丁目23番地5号",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.663162,
+          35.943665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "なごみ",
+        "description": "さいたま市見沼区大谷14-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.665817,
+          35.919926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "敬寿園七里ホーム居宅介護支援センター",
+        "description": "さいたま市見沼区大谷2022-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67395,
+          35.921688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あったか　プラン",
+        "description": "さいたま市見沼区蓮沼1675-9",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.666183,
+          35.923248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランひばり　見沼",
+        "description": "さいたま市見沼区蓮沼1450",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.664703,
+          35.926701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "マスヤ介護サービス",
+        "description": "さいたま市見沼区東門前65-2-101",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.663879,
+          35.934048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ソラスト七里",
+        "description": "さいたま市見沼区東門前351-4",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.672241,
+          35.931705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ハートケア東大宮",
+        "description": "さいたま市見沼区風渡野45",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.669113,
+          35.936069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "七里ホームひざこ居宅介護支援センター",
+        "description": "さいたま市見沼区膝子785-4",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.681961,
+          35.923454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "敬寿園　居宅介護支援センター",
+        "description": "さいたま市見沼区片柳1298",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691849,
+          35.904747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮共立病院居宅介護支援センター",
+        "description": "さいたま市見沼区片柳1550",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690903,
+          35.904335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮ナーシング・ピア居宅支援事業所",
+        "description": "さいたま市見沼区片柳1550",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690903,
+          35.904335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "高齢者ケアセンターのぞみ　居宅介護支援事業所",
+        "description": "さいたま市見沼区片柳1387-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.689819,
+          35.903305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あすか　居宅介護支援センター",
+        "description": "さいたま市見沼区染谷3-430-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686203,
+          35.908001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　さいたまかがやきの里",
+        "description": "さいたま市見沼区染谷3-190-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6828,
+          35.909344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアサポートサロンみぬま居宅介護支援事業所",
+        "description": "さいたま市見沼区御蔵499-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675278,
+          35.908333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮見沼ケアセンターそよ風",
+        "description": "さいたま市見沼区南中丸318-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.653198,
+          35.918041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ハピネスケア株式会社　みぬま　居宅介護支援事業所",
+        "description": "さいたま市見沼区南中野57番地",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.659271,
+          35.904484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "諏訪の苑",
+        "description": "さいたま市見沼区南中野29",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.660416,
+          35.904549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　雫",
+        "description": "さいたま市見沼区南中野59-3",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658401,
+          35.904644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指定居宅介護支援事業所　東大宮訪問看護ステーション",
+        "description": "さいたま市見沼区東大宮5丁目8番地3 ｻｰﾊﾟｽ東大宮102号室",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64035,
+          35.945942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ハートの森　居宅介護支援事業所",
+        "description": "さいたま市見沼区東大宮2-41-3",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.634109,
+          35.948456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あいりす介護支援センター",
+        "description": "さいたま市見沼区東大宮6-158-21",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.645874,
+          35.947735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所ボヌール",
+        "description": "さいたま市見沼区東大宮三丁目1番65号 小林ﾋﾞﾙ1階101号",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633301,
+          35.952969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "やさしい手東大宮居宅介護支援事業所",
+        "description": "さいたま市見沼区東大宮2丁目6番2 D-ﾌｪｽﾀ東大宮",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.637405,
+          35.943176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプラン　かりん",
+        "description": "さいたま市見沼区東大宮1丁目10番地3",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.639343,
+          35.943348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あしすとケアプラン東大宮",
+        "description": "さいたま市見沼区東大宮5丁目33番地12 5階",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.644302,
+          35.947334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医心館　居宅介護支援事業所　東大宮",
+        "description": "さいたま市見沼区東大宮5丁目27番地3",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643082,
+          35.947021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ネオタイプ",
+        "description": "さいたま市見沼区東大宮5丁目48番地13",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641663,
+          35.950565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "チーミング福祉サービス",
+        "description": "さいたま市見沼区堀崎町506番地12",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.654404,
+          35.938431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ゆずは",
+        "description": "さいたま市見沼区堀崎町1623",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.649551,
+          35.940655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　見沼緑水苑",
+        "description": "さいたま市見沼区大和田町二丁目336番地",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643066,
+          35.928787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮大和田在宅介護支援センター",
+        "description": "さいたま市見沼区大和田町2-1393-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652145,
+          35.931908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランさとえ",
+        "description": "さいたま市見沼区大和田町1丁目1684番地 丸中ﾊｲﾂ103",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.651764,
+          35.929363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "かいごのあも",
+        "description": "さいたま市見沼区大和田町2丁目841番地1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.645355,
+          35.935326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "イリーゼ大宮大和田居宅介護支援事業所",
+        "description": "さいたま市見沼区区南中丸1039-1",
+        "marker-size": "middle",
+        "marker-color": "#00FFFF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.654434,
+          35.935215
+        ]
+      }
+    }
+  ]
+}

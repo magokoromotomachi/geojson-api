@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ミッドフィールド　居宅介護支援事業所",
+        "description": "さいたま市大宮区宮町4-84",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625137,
+          35.911762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指定居宅介護支援事業所 双愛",
+        "description": "さいたま市大宮区堀の内町2-238-2",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.635559,
+          35.912067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ファンティック介護保険相談事業所",
+        "description": "さいたま市大宮区堀の内町1-475-3 ｺｰﾎﾟ93-201",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.639481,
+          35.912212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "社会福祉法人　育成会　白菊苑",
+        "description": "さいたま市大宮区天沼町1-150-1",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.639709,
+          35.905884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアサポートおおみや居宅介護支援事業所",
+        "description": "さいたま市大宮区天沼町1-250-1",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.636581,
+          35.904758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ひなたぼっこ",
+        "description": "さいたま市大宮区東町2-251",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633636,
+          35.910095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ＳＯＭＰＯケア　さいたま大宮東　居宅介護支援",
+        "description": "さいたま市大宮区東町1丁目198番地 ｻｲﾄｳﾋﾞﾙ102",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.634567,
+          35.906319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ソーシャルサポート　それいゆ",
+        "description": "さいたま市大宮区浅間町2-4-1 ｴｸｼｰﾄﾞ大宮 301号室",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631393,
+          35.902725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランひさご",
+        "description": "さいたま市大宮区浅間町1丁目172番地2",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.635315,
+          35.905273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "テルウェル東日本　さいたま介護センタ",
+        "description": "さいたま市大宮区吉敷町1-133-1 ﾜﾝﾗｲﾄﾋﾞﾙ2階",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630844,
+          35.901245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "けあさぽーと　かず",
+        "description": "さいたま市大宮区下町2丁目76番地 伸和ﾏﾝｼｮﾝ302号",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628616,
+          35.902885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "愛希　居宅介護支援事業所大宮",
+        "description": "さいたま市大宮区櫛引町1-824-1",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.608902,
+          35.915382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所春陽苑　桜木支所",
+        "description": "さいたま市大宮区大成町2-397-3",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.612808,
+          35.911831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "けあビジョン大宮",
+        "description": "さいたま市大宮区大成町3-455-102",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.614426,
+          35.916283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプラン敬",
+        "description": "さいたま市大宮区大成町1丁目457番地3",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.612946,
+          35.908901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "はなあかり訪問看護リハビリステーション大宮大成",
+        "description": "さいたま市大宮区大成町1丁目481番地 浅見ﾋﾞﾙ201号室",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.612625,
+          35.910141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "介護サービスセンター ハイム",
+        "description": "さいたま市大宮区桜木町4-760",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616806,
+          35.900726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所「さくら」",
+        "description": "さいたま市大宮区桜木町4-627-2 伊田ｸﾞﾙｰﾌﾟﾋﾞﾙ2階",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619324,
+          35.898895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "愛ステップ大宮",
+        "description": "さいたま市大宮区桜木町4-708 渋谷ﾋﾞﾙ2階",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618591,
+          35.900421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ＳＯＭＰＯケア　さいたま大宮西　居宅介護支援",
+        "description": "さいたま市大宮区桜木町4-702-1 秀宝ﾋﾞﾙ4階",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618591,
+          35.900421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　はるぱてお",
+        "description": "さいたま市大宮区上小町1184番地",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.613419,
+          35.897144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "やさしい手上小町居宅介護支援事業所",
+        "description": "さいたま市大宮区上小町1481番地1",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.614975,
+          35.895058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "三橋ケアセンターそよ風",
+        "description": "さいたま市大宮区三橋1-871",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.598297,
+          35.914486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人　明浩会　西大宮病院介護支援事業所",
+        "description": "さいたま市大宮区三橋1丁目1173番地",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.599319,
+          35.906647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所しあわせ三橋",
+        "description": "さいたま市大宮区三橋1-564",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.604019,
+          35.909695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮諏訪の苑　居宅介護支援事業所",
+        "description": "さいたま市大宮区三橋4丁目875-2",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.604309,
+          35.891006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "亀春居宅介護支援事業所",
+        "description": "さいたま市大宮区三橋4-333-1",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.603882,
+          35.895184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮三橋ケアセンターそよ風",
+        "description": "さいたま市大宮区三橋1丁目345番地1",
+        "marker-size": "middle",
+        "marker-color": "#FFA500",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.602036,
+          35.914272
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2021 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "まごころ浦和元町",
+        "description": "さいたま市浦和区元町3-32-23",
+        "marker-size": "large",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655129,
+          35.874083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ハーモニークリニック",
+        "description": "埼玉県さいたま市緑区松木3ｰ16-6",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.688156,
+          35.883976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "みたにクリニック",
+        "description": "埼玉県さいたま市大宮区土手町2-1-3　カオルビル1F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625443,
+          35.913795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "みやぎクリニック",
+        "description": "埼玉県さいたま市岩槻区美園東3−7−37",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.727219,
+          35.905025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "彩の国みなみのクリニック",
+        "description": "埼玉県さいたま市南区南浦和2-27-12　アビアント3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67067,
+          35.849072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東西医学ビルクリニック",
+        "description": "埼玉県さいたま市中央区上落合8-2-12　さいたま新都心ビル3階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623886,
+          35.899567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "児玉クリニック",
+        "description": "埼玉県さいたま市大宮区仲町2-23-3　大宮仲町センタービル1F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627747,
+          35.905598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "南浦和駅前 町田クリニック",
+        "description": "埼玉県さいたま市南区南本町2-1-2　プラザマツヤビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.668152,
+          35.847637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人 わかば医院",
+        "description": "埼玉県さいたま市浦和区上木崎4丁目11-20",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.647812,
+          35.885307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西大宮病院",
+        "description": "埼玉県さいたま市大宮区三橋1ｰ1173",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.599319,
+          35.906647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "新都心むさしのクリニック",
+        "description": "埼玉県さいたま市大宮区北袋町2-389-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.645813,
+          35.891727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "たや脳神経外科クリニック",
+        "description": "埼玉県さいたま市緑区芝原2-2-6",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690994,
+          35.880909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉メディカルセンター",
+        "description": "埼玉県さいたま市浦和区北浦和4丁目9-3",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643433,
+          35.872547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "本郷脳神経外科",
+        "description": "埼玉県さいたま市北区本郷町1100-2",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624542,
+          35.944363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "彩の国東大宮メディカルセンター",
+        "description": "埼玉県さいたま市北区土呂町1522",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.638138,
+          35.927402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "自治医科大学附属さいたま医療センター",
+        "description": "埼玉県さいたま市大宮区天沼町1-847",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.645355,
+          35.907181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "とみた脳神経外科クリニック",
+        "description": "埼玉県さいたま市緑区美園4-14-15",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.728607,
+          35.896858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "野村クリニック",
+        "description": "埼玉県さいたま市浦和区常盤2-9-12",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652237,
+          35.864376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人社団彩輝会 ねぎし内科・神経内科クリニック",
+        "description": "埼玉県さいたま市中央区下落合2-19-16",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633209,
+          35.883877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "おちあい脳クリニック",
+        "description": "埼玉県さいたま市桜区田島5-13-16",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628281,
+          35.845036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人社団水府会 かわかみ心療クリニック",
+        "description": "埼玉県さいたま市中央区新都心4-8　ファーストビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630173,
+          35.891712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "渡辺メンタルクリニック",
+        "description": "埼玉県さいたま市大宮区高鼻町1-31-1　TOPS大宮ビルディング6F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62941,
+          35.909988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "秋葉病院",
+        "description": "埼玉県さいたま市南区根岸5丁目13-10",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655914,
+          35.844391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人社団智生会 イサオクリニック",
+        "description": "埼玉県さいたま市浦和区北浦和4丁目3-10 若松家ビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.644226,
+          35.871639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "かせ心のクリニック",
+        "description": "埼玉県さいたま市浦和区北浦和1-1-7　北原ビル2F、5F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.647614,
+          35.872326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま市民医療センター",
+        "description": "埼玉県さいたま市西区島根299-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.598175,
+          35.881889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "すなおクリニック",
+        "description": "埼玉県さいたま市大宮区大門町2丁目94 福呂屋ビル4階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627472,
+          35.906654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "心と体のクリニック",
+        "description": "埼玉県さいたま市大宮区大門町2-108 永峰ビル4F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627472,
+          35.906654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "丸山記念総合病院",
+        "description": "埼玉県さいたま市岩槻区本町2ｰ10-5",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694946,
+          35.945187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮共立病院",
+        "description": "埼玉県さいたま市見沼区片柳1550",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690903,
+          35.904335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま市立病院",
+        "description": "埼玉県さいたま市緑区三室2460",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.678665,
+          35.891266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ふせき心療クリニック",
+        "description": "埼玉県さいたま市大宮区吉敷町4丁目262-10　松井ビル5階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63324,
+          35.895111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "おかやまクリニック",
+        "description": "埼玉県さいたま市中央区上落合9丁目9-8 サンフロントビル2F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623993,
+          35.900322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮駅前 ひるまこころクリニック",
+        "description": "埼玉県さいたま市大宮区桜木町1-197　配島ビル4F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.622116,
+          35.903652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指扇病院",
+        "description": "埼玉県さいたま市西区宝来1295-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.561172,
+          35.922798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま脳外科クリニック",
+        "description": "埼玉県さいたま市北区宮原町1丁目365-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624008,
+          35.937519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "白峰クリニック",
+        "description": "埼玉県さいたま市浦和区上木崎4丁目2-25",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643066,
+          35.886581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "至誠堂　冨田病院",
+        "description": "埼玉県さいたま市大宮区堀の内町2丁目564",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.645493,
+          35.915035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま市総合療育センターひまわり学園",
+        "description": "埼玉県さいたま市西区三橋6丁目1587",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.590118,
+          35.920925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "宇治病院",
+        "description": "埼玉県さいたま市大宮区宮町2丁目90",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628357,
+          35.909866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "新都心たざわクリニック",
+        "description": "埼玉県さいたま市中央区上落合5丁目17-1 S4タワー1階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6259,
+          35.898384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "田代クリニック",
+        "description": "埼玉県さいたま市緑区東浦和7丁目29-7",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703842,
+          35.873928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "坂井メンタルクリニック",
+        "description": "埼玉県さいたま市浦和区仲町1丁目2-12 関根ビル4F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655396,
+          35.859756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "しのざき脳神経外科・産婦人科クリニック",
+        "description": "埼玉県さいたま市南区南浦和3丁目28-7",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.674042,
+          35.847359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "松田メンタルクリニック",
+        "description": "埼玉県さいたま市浦和区高砂2丁目12-12 あづまビル3階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.654388,
+          35.858845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "子ども家庭総合センター内診療室",
+        "description": "埼玉県さいたま市浦和区上木崎4丁目4-10",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.644073,
+          35.88549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "イケダ医院",
+        "description": "埼玉県さいたま市桜区中島4丁目5-25",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619598,
+          35.863373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "春陽苑にこにこクリニック",
+        "description": "埼玉県さいたま市西区飯田新田91-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.559067,
+          35.888718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "至誠堂整形外科",
+        "description": "埼玉県さいたま市中央区新中里2丁目9-35",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633194,
+          35.872173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま赤十字病院",
+        "description": "埼玉県さいたま市中央区新都心1-5",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632233,
+          35.891815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ひがメンタルクリニック",
+        "description": "埼玉県さいたま市大宮区高鼻町1丁目305",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62886,
+          35.91317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮クリニック",
+        "description": "埼玉県さいたま市北区東大成町1丁目555-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.622498,
+          35.923576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "岩槻久木田医院",
+        "description": "埼玉県さいたま市岩槻区本町3丁目11-2",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694809,
+          35.949226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浦和神経サナトリウム",
+        "description": "埼玉県さいたま市南区広ケ谷戸301-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.687363,
+          35.862789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東大宮メンタルクリニック",
+        "description": "埼玉県さいたま市見沼区東大宮4丁目18-8 新井ビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.639999,
+          35.949329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ひろクリニック",
+        "description": "埼玉県さいたま市見沼区東大宮5丁目39-3 英和ビル5階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641144,
+          35.94915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "メンタルヘルス田井クリニック",
+        "description": "埼玉県さいたま市浦和区高砂3丁目2-10 草野高砂ビル6F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652679,
+          35.856949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "田島クリニック",
+        "description": "埼玉県さいたま市浦和区岸町5丁目8-17",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652557,
+          35.852062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "岩槻西原クリニック",
+        "description": "埼玉県さいたま市岩槻区岩槻5166",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.68866,
+          35.958729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "すこやか内科クリニック",
+        "description": "埼玉県さいたま市中央区鈴谷5丁目3-12",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629517,
+          35.870831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮厚生病院",
+        "description": "埼玉県さいたま市見沼区片柳1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696671,
+          35.898155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中村医院",
+        "description": "埼玉県さいたま市見沼区東大宮7丁目73-2",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.646561,
+          35.938671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "与野中央病院",
+        "description": "埼玉県さいたま市西区島根65",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.601715,
+          35.885529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "小野田クリニック",
+        "description": "埼玉県さいたま市見沼区大和田町1丁目937-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.647171,
+          35.92601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西部総合病院",
+        "description": "埼玉県さいたま市桜区上大久保884",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.615952,
+          35.872456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "小山メンタルクリニック",
+        "description": "埼玉県さいたま市南区文蔵2丁目1-2 コルティーレI 2F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.669449,
+          35.844795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あおぞらクリニック埼玉",
+        "description": "埼玉県さいたま市緑区東浦和4丁目26-17 サニーハイム201号室",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700409,
+          35.868916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大野クリニック",
+        "description": "埼玉県さいたま市大宮区仲町2丁目24",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627747,
+          35.905598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "こころのクリニック",
+        "description": "埼玉県さいたま市見沼区東大宮5丁目6-6",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.640121,
+          35.946972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "三愛病院",
+        "description": "埼玉県さいたま市桜区田島4丁目35-17",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6259,
+          35.848564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "武蔵浦和メンタルクリニック",
+        "description": "埼玉県さいたま市南区別所7丁目6-8 ライブタワー武蔵浦和201",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.648239,
+          35.845646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "岸林クリニック",
+        "description": "埼玉県さいたま市緑区太田窪1丁目23-10",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.668365,
+          35.864975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "宮原メンタルクリニック",
+        "description": "埼玉県さいたま市北区宮原町3丁目373-2 ファーレマツザワヤ2F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.610657,
+          35.940853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "聖みどり病院",
+        "description": "埼玉県さいたま市南区白幡5丁目19-25",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.647507,
+          35.844738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "そら内科クリニック",
+        "description": "埼玉県さいたま市緑区三室950-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675949,
+          35.888561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮西口メンタルクリニック",
+        "description": "埼玉県さいたま市大宮区桜木町2丁目2-13 第2ユニオンビル4F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621536,
+          35.906071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大原医院",
+        "description": "埼玉県さいたま市大宮区桜木町2丁目3-69",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621796,
+          35.90699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中浦和メンタルクリニック",
+        "description": "埼玉県さいたま市南区鹿手袋3-7-28　ロータスコート1F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.636841,
+          35.85112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "湯澤医院",
+        "description": "埼玉県さいたま市西区西遊馬1260-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.564407,
+          35.914581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "辻医院",
+        "description": "埼玉県さいたま市南区辻3丁目12-30",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658585,
+          35.838375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま岩槻病院",
+        "description": "埼玉県さいたま市岩槻区慈恩寺75",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708618,
+          35.980473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浦和別所メンタルクリニック",
+        "description": "埼玉県さいたま市南区別所7丁目19-27",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.642548,
+          35.846104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "謙愛クリニック",
+        "description": "埼玉県さいたま市浦和区東仲町25-29 太陽堂ビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658844,
+          35.860687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浦和すずのきクリニック",
+        "description": "埼玉県さいたま市桜区田島7丁目17-21",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626053,
+          35.83865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮すずのきクリニック",
+        "description": "埼玉県さいたま市北区東大成町2丁目251",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620621,
+          35.927063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "絆クリニック",
+        "description": "埼玉県さいたま市北区吉野町1-410-21-301",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.611023,
+          35.955162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉精神神経センター",
+        "description": "埼玉県さいたま市中央区本町東6丁目11-1",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617706,
+          35.893761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "増田外科医院",
+        "description": "埼玉県さいたま市北区宮原町4丁目39-5",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.615494,
+          35.945595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "小原クリニック",
+        "description": "埼玉県さいたま市浦和区東高砂町9-1 SUMIDA ONE 本館3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.659317,
+          35.857494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮こころの診療所",
+        "description": "埼玉県さいたま市大宮区桜木町1丁目193-1 大宮YOKOビル5F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.622955,
+          35.904213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま記念病院",
+        "description": "埼玉県さいたま市見沼区東宮下196",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.678619,
+          35.926342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮桜木町クリニック",
+        "description": "埼玉県さいたま市大宮区桜木町2丁目324-1 松本ビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619003,
+          35.907604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "いいじまクリニック",
+        "description": "埼玉県さいたま市浦和区本太5丁目40-22",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.659851,
+          35.869392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "岩槻中央病院",
+        "description": "埼玉県さいたま市岩槻区東岩槻2丁目2-20",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709183,
+          35.964756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "金沢クリニック",
+        "description": "埼玉県さいたま市岩槻区太田1丁目1-18",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70282,
+          35.952232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東整形外科",
+        "description": "埼玉県さいたま市見沼区東大宮5丁目34-25",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.645172,
+          35.948608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮中央総合病院",
+        "description": "埼玉県さいたま市北区東大成町1丁目227",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620941,
+          35.920685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "こもれびメンタルクリニック大宮",
+        "description": "埼玉県さいたま市大宮区宮町2-10　シンテイ大宮ビル6F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626968,
+          35.908817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉県立小児医療センター",
+        "description": "埼玉県さいたま市中央区新都心1-2",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632233,
+          35.891815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "小川クリニック",
+        "description": "埼玉県さいたま市浦和区高砂1丁目13-2 ヤママンビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655273,
+          35.858967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "北戸田駅前まつもとクリニック",
+        "description": "埼玉県さいたま市南区辻8-23-14 2F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.660767,
+          35.828945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "高梨医院",
+        "description": "埼玉県さいたま市浦和区岸町4丁目18-19",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.657196,
+          35.85421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "メンタルクリニック美波",
+        "description": "埼玉県さいたま市岩槻区本町4丁目3-2 セントラルヒルズ1F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69812,
+          35.949959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東大宮クリニック",
+        "description": "埼玉県さいたま市見沼区東大宮7丁目51-18",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.644318,
+          35.94276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮むさしのクリニック",
+        "description": "埼玉県さいたま市大宮区桜木町2丁目194 YSビル2F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620483,
+          35.906147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "鷺谷メンタルクリニック",
+        "description": "埼玉県さいたま市中央区上落合9丁目10-21 OMIビル",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623779,
+          35.900738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたまメンタルクリニック",
+        "description": "埼玉県さいたま市北区宮原町3丁目558 第5シマ企画ビル2階",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.608658,
+          35.939217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "まつもと内科・神経内科クリニック",
+        "description": "埼玉県さいたま市南区別所7丁目2-1 武蔵浦和メディカルセンター",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.649673,
+          35.847317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮さくらクリニック",
+        "description": "埼玉県さいたま市大宮区桜木町2丁目8-4 山下ビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620728,
+          35.908134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "かたやまクリニック",
+        "description": "埼玉県さいたま市緑区美園5丁目43-15",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732544,
+          35.894043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ゆうメンタルクリニック大宮院",
+        "description": "埼玉県さいたま市大宮区宮町1-5　大宮銀座ビル3F",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624664,
+          35.907913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "にひら医院",
+        "description": "埼玉県さいたま市大宮区仲町2丁目61",
+        "marker-size": "middle",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62796,
+          35.904804
+        ]
+      }
+    }
+  ]
+}

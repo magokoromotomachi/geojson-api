@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "まごころ浦和元町",
+        "description": "さいたま市浦和区元町3-32-23",
+        "marker-size": "large",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655129,
+          35.874083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西区北部圏域地域包括支援センター三恵苑",
+        "description": "さいたま市西区中釘2162-4 星本ビル1階",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.573181,
+          35.939224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西区南部圏域地域包括支援センターくるみ",
+        "description": "さいたま市西区西遊馬771-2",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.568359,
+          35.909153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "北区北部圏域地域包括支援センター緑水苑",
+        "description": "さいたま市北区吉野町1-27-13",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618896,
+          35.950508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "北区東部圏域地域包括支援センター諏訪の苑",
+        "description": "さいたま市北区本郷町348-2",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628296,
+          35.940861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "北区西部圏域地域包括支援センターゆめの園",
+        "description": "さいたま市北区日進町2-813",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.607544,
+          35.929775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮区東部圏域地域包括支援センター白菊苑",
+        "description": "さいたま市大宮区天沼町1-154-1",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.639008,
+          35.906342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮区西部圏域地域包括支援センター春陽苑",
+        "description": "さいたま市大宮区大成町2-397-3",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.612808,
+          35.911831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "見沼区北部圏域地域包括支援センターさいたまやすらぎの里",
+        "description": "さいたま市見沼区卸町2-21-1",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.677505,
+          35.951843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "見沼区東部圏域地域包括支援センター敬寿園七里ホーム",
+        "description": "さいたま市見沼区大谷2022-1",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67395,
+          35.921688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "見沼区西部圏域地域包括支援センター大和田",
+        "description": "さいたま市見沼区大和田町2-1387-1",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652298,
+          35.931557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "見沼区南部圏域地域包括支援センター敬寿園",
+        "description": "さいたま市見沼区南中野287 ソレイユ南中野101",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655624,
+          35.908985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中央区北部圏域地域包括支援センターナーシングヴィラ与野",
+        "description": "さいたま市中央区本町東6-10-1",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618057,
+          35.893158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中央区南部圏域地域包括支援センターきりしき",
+        "description": "さいたま市中央区新中里2-8-6",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633896,
+          35.872154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "桜区北部圏域地域包括支援センター彩寿苑",
+        "description": "さいたま市桜区宿400",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.593277,
+          35.874466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "桜区南部圏域地域包括支援センターザイタック",
+        "description": "さいたま市桜区田島5-25-8",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628036,
+          35.843761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浦和区北部圏域地域包括支援センターかさい医院",
+        "description": "さいたま市浦和区針ヶ谷3-13-18",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643036,
+          35.88319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浦和区東部圏域地域包括支援センタースマイルハウス浦和",
+        "description": "さいたま市浦和区領家4-13-3",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.654297,
+          35.881809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "浦和区中部圏域地域包括支援センタージェイコー埼玉",
+        "description": "さいたま市浦和区北浦和5-2-7",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64299,
+          35.873795
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアワークわかくさ",
+        "description": "さいたま市南区太田窪1977-1",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.681427,
+          35.852314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所埼玉さくらんぼⅠ番館",
+        "description": "さいたま市南区大字太田窪3504-3",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693222,
+          35.849159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　くるり",
+        "description": "さいたま市南区太田窪5丁目24番11号 ｺｰﾎﾟしみず102",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.679291,
+          35.853657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "あさひ",
+        "description": "さいたま市南区大谷場1-17-5",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67012,
+          35.855499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アスモ介護サービス埼玉",
+        "description": "さいたま市南区南浦和2-33-13 ｴﾊﾞﾀﾋﾞﾙ202号室",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.671921,
+          35.849113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東京海上日動みずたまST南浦和ケアプランセンター",
+        "description": "さいたま市南区南浦和2-36-11 ｶﾄﾚﾔﾋﾞﾙ2階",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.670013,
+          35.848007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケア２１　浦和",
+        "description": "さいたま市南区南浦和3-35-22 ヴｨﾗ明和 103号室",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67337,
+          35.84573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人明医研ケアメイト訪問看護ステーション",
+        "description": "さいたま市南区別所6-18-8",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.642654,
+          35.848248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "株式会社　ステラ",
+        "description": "さいたま市南区別所3丁目1番3号 小川ﾋﾞﾙ2-B",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.647232,
+          35.855572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアサービス奏",
+        "description": "さいたま市南区別所1-11-2",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.648285,
+          35.852932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　ソラスト武蔵浦和",
+        "description": "さいたま市南区白幡4-19-1 第二春日ﾋﾞﾙ1階",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652206,
+          35.841427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "コープみらい　さいたま介護センター",
+        "description": "さいたま市南区根岸2-15-2 2階",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.665344,
+          35.841976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "マエノ薬局　",
+        "description": "さいたま市南区根岸5-13-14",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655914,
+          35.844391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "愛ケア　浦和居宅介護支援事業所",
+        "description": "さいたま市南区根岸1丁目3番9号 ﾂﾈﾋﾞﾙ502号室",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.664764,
+          35.844128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "有限会社　ライフサポートさいたま",
+        "description": "さいたま市南区文蔵3丁目23番地5号",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673813,
+          35.839493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "厚生福祉自動車有限会社　ハロー介護",
+        "description": "さいたま市南区文蔵3-27-5",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673615,
+          35.837395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアサービス　きりん",
+        "description": "さいたま市南区文蔵4-5-6",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66925,
+          35.840454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ファインケア浦和",
+        "description": "さいたま市南区文蔵2-2-1",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.669693,
+          35.844315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアマネ事業所ひなた",
+        "description": "さいたま市南区文蔵3丁目18番3号 212",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673874,
+          35.841805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "スマイル　ファクトリー",
+        "description": "さいたま市南区文蔵1丁目20番12号",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.671097,
+          35.842201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ねこさんプランニング",
+        "description": "さいたま市南区文蔵5丁目18番2号 302 ﾊﾞﾁｭﾗｰ浦和",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.674957,
+          35.834293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　エールサービス",
+        "description": "さいたま市南区辻4-7-4 秋本ﾋﾞﾙ2F",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658096,
+          35.836346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所あすなろホーム",
+        "description": "さいたま市南区辻7-13-15",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.665222,
+          35.832794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "エム・ケア・マネジメント",
+        "description": "さいたま市南区辻4-19-19",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655334,
+          35.835022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "どりーむ居宅介護支援事業所",
+        "description": "さいたま市南区辻3丁目4番1号 1F",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.657745,
+          35.839802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ベネッセ介護センターさいたま",
+        "description": "さいたま市南区沼影1丁目29番6号 ﾀﾞｲﾔｺｰﾎﾟ103号",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641495,
+          35.842197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま市在宅介護支援センター ハートランド武蔵浦和",
+        "description": "さいたま市南区別所3丁目16番11号 埼玉ﾋﾞﾙ503",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.645615,
+          35.854824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　けやきホームズ",
+        "description": "さいたま市南区鹿手袋7-13-4",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.635544,
+          35.84697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランセンターつむぎ",
+        "description": "さいたま市南区鹿手袋4-26-29 ﾀﾞｲﾔﾓﾝﾄﾞﾊｲﾂ103",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.638321,
+          35.84726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　あさひケアサービス",
+        "description": "さいたま市南区鹿手袋6丁目7番19号 2F",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.637558,
+          35.845573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランひばり浦和",
+        "description": "さいたま市南区鹿手袋3丁目15番13号",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641983,
+          35.849541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "エルフ　ケアプラン",
+        "description": "さいたま市南区鹿手袋6丁目16番23号 The Spring Village 103号室",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.638779,
+          35.843388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "のぞみケアマネジメント",
+        "description": "さいたま市南区松本1-12-15",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62648,
+          35.838165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　あおぞら西浦和",
+        "description": "さいたま市南区松本1丁目16番5号",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625885,
+          35.836636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "こもれびの丘　居宅介護支援センター",
+        "description": "さいたま市南区広ｹ谷戸130-1",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686569,
+          35.860607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "山手ケアサービス株式会社",
+        "description": "さいたま市南区大谷口字向原1460番地2号",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69133,
+          35.859741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "みのり居宅介護支援事業所",
+        "description": "さいたま市南区大谷口2029番地4",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692566,
+          35.857002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ニチイケアセンター大谷口",
+        "description": "さいたま市南区大谷口5322",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692642,
+          35.861774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所きらり",
+        "description": "さいたま市南区大字大谷口5375",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695114,
+          35.859653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "介護相談室ＡＬＯＨＡ",
+        "description": "さいたま市南区大谷口1815番地107",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690399,
+          35.857578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　あおぞら中央",
+        "description": "さいたま市南区円正寺518番地5",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695435,
+          35.853157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ことぶきケアプランセンター",
+        "description": "さいたま市南区白幡3-2-9　第一コーポミチ201",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.653564,
+          35.844311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "マエノ薬局　",
+        "description": "さいたま市南区根岸5-13-14",
+        "marker-size": "middle",
+        "marker-color": "#FF00FF",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.655914,
+          35.844391
+        ]
+      }
+    }
+  ]
+}

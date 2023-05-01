@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケア大宮花の丘居宅介護支援センター",
+        "description": "さいたま市西区内野本郷975-5",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.590607,
+          35.938267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "華齢なるケアマネたち",
+        "description": "さいたま市西区大字内野本郷693番地46",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.594086,
+          35.937901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　あさがお　清河寺",
+        "description": "さいたま市西区大字内野本郷1004 ﾓﾙｹﾞﾝﾊｲﾑ103号室",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.588913,
+          35.93581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "リハ倶楽部　さくら",
+        "description": "さいたま市西区宮前町192-1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.591354,
+          35.922966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "愛の家居宅介護支援センター大宮指扇",
+        "description": "さいたま市西区指扇566-1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.584076,
+          35.907772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療生協おおみやケアセンター",
+        "description": "さいたま市西区指扇1070",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.578415,
+          35.912121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　緑水苑指扇",
+        "description": "さいたま市西区指扇1570-2",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.58168,
+          35.916065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプラン西大宮　萌",
+        "description": "さいたま市西区指扇757番地1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57637,
+          35.910721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮・あおいホームケアサービス",
+        "description": "さいたま市西区清河寺685-1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.582596,
+          35.933708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "楽しいわが家　居宅介護支援事業所",
+        "description": "さいたま市西区三橋6-21-2",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.589386,
+          35.910812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "わんわん介護",
+        "description": "さいたま市西区三橋5-600-1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.593109,
+          35.910999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中野林ゆめの園　在宅介護支援センター",
+        "description": "さいたま市西区中野林字中郷650番の1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.588013,
+          35.892521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "くるみ",
+        "description": "さいたま市西区西遊馬1259-2",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.563797,
+          35.914299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "高齢者ケアセンターゆらぎ居宅介護支援センター",
+        "description": "さいたま市西区大字西遊馬1556番地1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.56398,
+          35.911991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "プライエボーリくるみ",
+        "description": "さいたま市西区西遊馬367-5 ﾌﾟﾗｲｴﾎﾞｰﾘ湯澤1階",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.574951,
+          35.904766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "介護相談センター　琉聖",
+        "description": "さいたま市西区土屋1734番地1 上新田ｱﾊﾟｰﾄ 201号",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.570236,
+          35.910999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　遊美園",
+        "description": "さいたま市西区佐知川1522-1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.576447,
+          35.904881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアオフィスわきた",
+        "description": "さいたま市西区佐知川1112-2 ﾊｲｼﾏｺｰﾎﾟﾗｽ202",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.583817,
+          35.901081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "いきサポ相談事務所",
+        "description": "さいたま市西区二ﾂ宮697-1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.575882,
+          35.900509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランサービス　茉莉花馬宮",
+        "description": "さいたま市西区大字二ﾂ宮280番地34",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.582047,
+          35.893692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所春陽苑",
+        "description": "さいたま市西区飯田新田91-1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.559067,
+          35.888718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "三恵苑在宅介護支援センター",
+        "description": "さいたま市西区高木892",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.572906,
+          35.932018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプランセンター　扇の森",
+        "description": "さいたま市西区高木602番1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.567307,
+          35.926842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "敬寿園宝来ホーム居宅介護支援センター",
+        "description": "さいたま市西区宝来86-1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.554352,
+          35.931786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所トワーム指扇",
+        "description": "さいたま市西区宝来字町田591",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.556,
+          35.925785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "居宅介護支援事業所　指扇北",
+        "description": "さいたま市西区宝来776番地1",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.558609,
+          35.92358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ケアプラン　たまき",
+        "description": "さいたま市西区西大宮一丁目47番地7",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.572296,
+          35.923225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西大宮訪問看護ステーション",
+        "description": "さいたま市西区西大宮3-3",
+        "marker-size": "middle",
+        "marker-color": "#FFFF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.580399,
+          35.925266
+        ]
+      }
+    }
+  ]
+}
